@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QIntakeAssessment", "QIntakeAssessment.csproj", "{821267BD-923A-4A96-9410-DB2D26FD5F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QIntakeAssessmentTests", "..\QIntakeAssessmentTests\QIntakeAssessmentTests.csproj", "{5EF4D048-9F5E-497A-AB77-99F7D6645067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821267BD-923A-4A96-9410-DB2D26FD5F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821267BD-923A-4A96-9410-DB2D26FD5F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821267BD-923A-4A96-9410-DB2D26FD5F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821267BD-923A-4A96-9410-DB2D26FD5F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF4D048-9F5E-497A-AB77-99F7D6645067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF4D048-9F5E-497A-AB77-99F7D6645067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF4D048-9F5E-497A-AB77-99F7D6645067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF4D048-9F5E-497A-AB77-99F7D6645067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90FC53F-E68B-4372-8E3C-12E1F65A01E6}
+	EndGlobalSection
+EndGlobal
